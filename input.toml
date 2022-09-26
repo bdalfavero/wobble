@@ -1,0 +1,8 @@
+[atom]
+gamma = 3.0
+omega0 = 1.0
+
+[integration]
+steps = 1000
+runs = 100
+t_int = 5.0

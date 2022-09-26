@@ -1,0 +1,5 @@
+set term png
+set datafile separator ','
+set output "plot.png"
+
+plot "out.csv" using 1:2 with points, '' using 1:3 with points
